@@ -13,4 +13,6 @@ elif nilai < 75 and nilai >= 60:
     print(f"Halo {namaSiswa} kamu lulus dengan nilai grade C")
 elif nilai < 60 and nilai >= 45:
     print(f"Halo {namaSiswa} mohon maaf kamu belum lulus ujian karena mendapatkan nilai grade D")
+else:
+    print(f"Semangat terus ya belajar nya {namaSiswa} agar bisa lulus ujian berikutnya")
 
