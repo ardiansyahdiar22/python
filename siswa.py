@@ -9,4 +9,6 @@ elif nilai <= 95 and nilai >= 85:
     print(f"Selamat {namaSiswa} kamu lulus dengan grade A")
 elif nilai < 85 and nilai >= 75:
     print(f"Selamat {namaSiswa} anda mendapatkan grade nilai B")
+elif nilai < 75 and nilai >= 60:
+    print(f"Halo {namaSiswa} kamu lulus dengan nilai grade C")
 
