@@ -7,3 +7,5 @@ if nilai == 100:
     print(f"Selamat {namaSiswa} kamu lulus dengan nilai sempurna A+")
 elif nilai <= 95 and nilai >= 85:
     print(f"Selamat {namaSiswa} kamu lulus dengan predikat nilai A")
+elif nilai < 85 and nilai >= 75:
+    print(f"Selamat {namaSiswa} anda lulus dengan predikat nilai B")
